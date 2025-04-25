@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm ragini</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragini-06&label=Profile%20views&color=0e75b6&style=flat" alt="ragini-06" /> </p>
 
 - 🌱 I’m currently learning **DSA IN JAVA,WEB DEV (HTML ,CSS,JAVASCRIPT)**
+
+- my another github account [RAGINI-dev](RAGINI-dev)
 
 - 📫 How to reach me **nragini733@gmail.com**
 
@@ -24,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragini-06&show_icons=true&locale=en&layout=compact" alt="ragini-06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragini-06&show_icons=true&locale=en" alt="ragini-06" /></p>
+
